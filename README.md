@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Java programmer apprentice in my way to become a specialist in microservices!
+Any questions or suggestion please write me.
+
 <!--
 **nirlleycosta/nirlleycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Java, Spring Boot, Android, Clojure, MySQL and .  
-- ⚡ Fun fact: My first programming language was C in my electronic classes (hate it so much).   
+- ⚡ Fun fact: My first programming language was C in my electronic classes (hate it so much). 
+- 📫 How to reach me: nirlleycosta@gmail.com  
