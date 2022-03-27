@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java, Spring Boot, Android, Clojure, MySQL and .  
 - ⚡ Fun fact: My first programming language was C in my electronic classes (hate it so much). 
 - 📫 How to reach me: nirlleycosta@gmail.com  
+![git sloth](https://user-images.githubusercontent.com/29152631/160262038-892b92e0-4f7e-47c2-b185-b878f8fc6f8e.jpeg)
