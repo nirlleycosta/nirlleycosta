@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java, Spring Boot, Android, Clojure, MySQL and .  
+- 🌱 I’m currently learning Java, Spring Boot, Kotlin and MySQL. 
 - ⚡ Fun fact: My first programming language was C in my electronic classes (hate it so much). 
 - 📫 How to reach me: nirlleycosta@gmail.com  
 
