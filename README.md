@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nirlleycosta@gmail.com  
 
 
-![git sloth](https://user-images.githubusercontent.com/29152631/160262038-892b92e0-4f7e-47c2-b185-b878f8fc6f8e.jpeg)
+
+![gif](https://user-images.githubusercontent.com/29152631/180100347-8ca4004f-779c-4cd1-9492-b891854bf1f9.gif)
