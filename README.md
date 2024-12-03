@@ -4,7 +4,7 @@ Java programmer apprentice in my way to become a specialist in microservices!
 Any questions or suggestion please write me.
 
 <!--
-**nirlleycosta/nirlleycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nirlleycosta/nirlleypaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
