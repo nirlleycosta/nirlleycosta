@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Java, Spring, JS, Angular and Git. 
 - ⚡ Fun fact: My first programming language was C in my electronic classes (hate it so much). 
-- 📫 How to reach me: nirlleycosta@gmail.com  
+- 📫 How to reach me: nirlleypaixao@gmail.com  
 
 
 
